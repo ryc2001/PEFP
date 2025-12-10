@@ -1,5 +1,4 @@
-## Bridge the Gap: Exploring Faithful and Plausible Explanation for Knowledge
-Graph Completion
+## Bridge the Gap: Exploring Faithful and Plausible Explanation for Knowledge Graph Completion
 ![Model](model.png)
 ### Generating data
 `cd generation/generate_explanation/`
