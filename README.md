@@ -1,3 +1,4 @@
+![Model](model.png)
 ### Generating data
 `cd generation/generate_explanation/`
 - Get the training data for LPFT.
